@@ -5,6 +5,7 @@ client is for 1.21 and rebrand of domniix
 logs your plain passwords 💀 
 this is a 25$ vibecoded client marketed as "undetectable" while its still detected and owners excuse everytime is "its not the latest version" 😭
 <img width="300" height="150" alt="image" src="https://github.com/user-attachments/assets/c8230d43-50ea-440f-9a36-c76e630d409c" />
+<img width="356" height="239" alt="image" src="https://github.com/user-attachments/assets/7a7d2336-cb11-4c54-9b53-4bdeebd9cd2b" />
 
 # menu
 <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/0b70ba5f-6dfb-4cb3-91e2-aa6bac854916" />
